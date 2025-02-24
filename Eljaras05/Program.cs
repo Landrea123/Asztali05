@@ -9,7 +9,7 @@ namespace Eljaras05
 {
     internal class Program
     {
-        public static List<char> irasjelek = new List<char> { '.', '!', '?', ' ', ',', ':' };
+        public static List<char> irasjelek = new List<char> { '.', '!', '?', ' ', ',', ':',';' };
 
         public static void PalindromEllenorzes(string Kifejezes)
         {
